@@ -30,10 +30,6 @@ I am a passionate **Frontend Developer** focused on building beautiful and respo
 ## 📊 GitHub Stats
 
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Alkomi&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nada-Alkomi&show_icons=true&count_private=true)
-
-
 </div>
 
 ---
