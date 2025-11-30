@@ -6,9 +6,16 @@
 I am Frontend Developer
    
 
-📤 Connect & Competitive Programming
-<a href="https://www.flaticon.com/free-icons/interaction" title="interaction icons">Interaction icons created by Enamo Studios - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>                
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://yousefdergham.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/yousefdergham">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>               
 
 🛠️ Top Technical Skills & Tools
 <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>
