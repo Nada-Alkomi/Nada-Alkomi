@@ -1,30 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
+![Profile Image](https:) 
 
-**Nada Mostafa Alkomi**
-
-I am Frontend Developer
-   
+## 👩‍💻 About Me
+**Nada Mostafa Alkomi**  
+I am a passionate **Frontend Developer** focused on building beautiful and responsive web applications.
 
 ## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-mostafa-al-komi)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nada-Alkomi)  
 
-<p align="center">
-  <a href="https://yousefdergham.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/yousefdergham">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>               
+## 🛠️ Top Technical Skills & Tools
 
-🛠️ Top Technical Skills & Tools
-<a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by Pixel perfect - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/bootstrap" title="bootstrap icons">Bootstrap icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/java-script" title="java script icons">Java script icons created by Laisa Islam Ani - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Kiranshastry - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/git" title="git icons">Git icons created by riajulislam - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by riajulislam - Flaticon</a>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📂 Projects
+- [Project 1](#) - Short description
+- [Project 2](#) - Short description
+- [Project 3](#) - Short description
+
 
 
