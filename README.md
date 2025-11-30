@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Nada Mostafa
 
-![Profile Image](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![Profile Image](![bb4cd54e14cef6018d1dc1d8530fd788](https://github.com/user-attachments/assets/1a2db1e8-3d31-414d-a4b6-76a55c51996e)
+)
 
 ## 👩‍💻 About Me
 **Nada Mostafa Alkomi**  
@@ -9,9 +10,9 @@ I am a passionate **Frontend Developer** focused on building beautiful and respo
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-mostafa-al-komi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nada-mostafa-al-komi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nada-Alkomi/Nada-Alkomi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nadamostafa.lll54@gmail.com)
 
 ---
 
@@ -44,8 +45,7 @@ I am a passionate **Frontend Developer** focused on building beautiful and respo
 
 ---
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
+
 
 
 
