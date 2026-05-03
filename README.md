@@ -4,8 +4,8 @@
 )
 
 ## 👩‍💻 About Me
-**Nada Mostafa Alkomi**  
-I am a passionate **Frontend Developer** focused on building beautiful and responsive web applications.
+Nada Mostafa Alkomi  
+Passionate Software Developer with a focus on Frontend and Backend development . I enjoy building scalable and user-friendly web applications.
 
 ---
 
