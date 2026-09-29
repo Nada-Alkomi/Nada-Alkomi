@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Full-Stack Software Developer | React.js & ASP.NET Core
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;React.js+%7C+ASP.NET+Core+%7C+C%23;Building+Scalable+%26+Maintainable+Web+Applications" />
 
-**Building scalable, maintainable, and production-oriented web applications with modern software engineering practices.**
+<br/>
 
 <p>
   <a href="https://github.com/Nada-Alkomi">
@@ -22,175 +22,217 @@
 
 ---
 
-## About Me
+## Professional Profile
 
-I am a **Full-Stack Software Developer** with a strong focus on **React.js, ASP.NET Core, C#, and SQL Server**.
+I am a **Full-Stack Software Developer** specializing in **React.js, ASP.NET Core, C#, and SQL Server**, with a strong interest in software architecture and backend engineering.
 
-I enjoy designing and developing web applications across both the frontend and backend, with particular interest in **RESTful API development, database design, authentication and authorization, and clean software architecture**.
+I build web applications with an emphasis on **clean code, maintainability, scalability, security, and structured architecture**.
 
-My development approach focuses on writing **clean, maintainable, scalable, and well-structured code** while continuously improving my understanding of software engineering principles and modern development practices.
+My experience includes developing **RESTful APIs, database-driven applications, authentication and authorization systems, and full-stack web solutions**.
 
-### Professional Focus
-
-* Full-Stack Web Development
-* Frontend Development with React.js
-* Backend Development with ASP.NET Core
-* RESTful API Design & Development
-* Entity Framework Core & SQL Server
-* Clean Architecture & Layered Architecture
-* Authentication & Authorization
-* Object-Oriented Programming
-* Database Design & Management
-* Software Engineering Principles
-* Machine Learning & Artificial Intelligence
+I am continuously expanding my expertise in **software engineering, system design, and artificial intelligence**.
 
 ---
 
-## Technical Expertise
+## Core Competencies
 
-### Frontend Development
+| Area                     | Technologies & Concepts                                    |
+| ------------------------ | ---------------------------------------------------------- |
+| **Frontend**             | React.js, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS |
+| **Backend**              | C#, ASP.NET Core, .NET, Node.js                            |
+| **API Development**      | RESTful APIs, JWT Authentication, Authorization            |
+| **Database**             | SQL Server, Entity Framework Core                          |
+| **Architecture**         | Clean Architecture, Layered Architecture                   |
+| **Design Patterns**      | Repository Pattern, Unit of Work                           |
+| **Software Engineering** | OOP, SOLID Principles, Clean Code                          |
+| **Tools**                | Git, GitHub, Visual Studio, VS Code, Postman               |
+| **AI / ML**              | Python, Machine Learning, Random Forest, Gradient Boosting |
+
+---
+
+# Technology Stack
+
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
 </p>
 
-### Database & Data Access
+### Database
 
 <p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=sqlserver" />
 </p>
 
 ### Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### ClinicCare — Clinic Management System
+## ClinicCare — Clinic Management System
 
-A backend-focused healthcare management system designed using **ASP.NET Core Web API** and a structured architectural approach.
+A healthcare management platform developed using **ASP.NET Core Web API** with a structured backend architecture.
 
-#### Core Features
+### Key Features
 
-* JWT-based Authentication
+* JWT Authentication
 * Role-Based Authorization
-* Admin, Doctor, and Patient Roles
+* Admin, Doctor & Patient Roles
 * Appointment Management
-* Medical Records Management
-* Notification System
+* Medical Records
+* Notifications
 * Entity Framework Core
 * Repository Pattern
 * Unit of Work Pattern
 * SQL Server
 
+**Architecture:** Clean / Layered Architecture
+
 **Tech Stack:**
-`C#` · `ASP.NET Core` · `EF Core` · `SQL Server` · `REST API`
+`C#` `ASP.NET Core` `EF Core` `SQL Server` `REST API`
 
 ---
 
-### E-Commerce API
+## Veloura — E-Commerce Platform
 
-A RESTful backend API designed to support core e-commerce operations using **ASP.NET Core Web API**.
+A full-stack e-commerce application focused on implementing a scalable backend and modern frontend experience.
 
-#### Technologies
+### Key Areas
 
-* C#
-* ASP.NET Core
-* Entity Framework Core
-* SQL Server
+* Product Management
+* Shopping Cart
+* Wishlist
+* Orders
+* User Authentication
 * RESTful APIs
-* Repository Pattern
-* Authentication & Authorization
+* Database Management
+* Entity Framework Core
 
 **Tech Stack:**
-`C#` · `ASP.NET Core` · `EF Core` · `SQL Server`
+`ASP.NET Core` `C#` `EF Core` `SQL Server` `React.js`
 
 ---
 
-### Autism Early Detection — Machine Learning Project
+## NOVA — Interior Design Landing Page
 
-An AI-based graduation project focused on supporting the **early detection of Autism Spectrum Disorder** through machine learning techniques.
+A modern responsive landing page developed with **React.js and Tailwind CSS**, focusing on reusable components and responsive UI design.
 
-The project involved data preprocessing, feature preparation, model training, and evaluation of machine learning algorithms.
+### Highlights
 
-#### Technologies & Concepts
+* Component-Based Architecture
+* Responsive Design
+* Modern UI
+* Reusable React Components
+* Tailwind CSS
+* Vite
+
+**Tech Stack:**
+`React.js` `Tailwind CSS` `JavaScript` `Vite`
+
+---
+
+## Autism Early Detection — Machine Learning
+
+An AI-based graduation project exploring machine learning techniques for supporting the early detection of Autism Spectrum Disorder.
+
+### Machine Learning Workflow
+
+**Data → Preprocessing → Feature Preparation → Model Training → Evaluation**
+
+### Technologies
 
 * Python
-* Machine Learning
 * Data Preprocessing
-* Feature Engineering
 * Random Forest
 * Gradient Boosting
 * Model Evaluation
 
 **Focus:**
-`Machine Learning` · `Data Analysis` · `Model Evaluation`
+`Machine Learning` `Data Analysis` `Artificial Intelligence`
 
 ---
 
-## Software Engineering Interests
+# Software Engineering Practices
 
-I am particularly interested in developing reliable software systems and continuously expanding my knowledge in:
+I am particularly interested in building software using established engineering principles:
 
-* Clean Architecture
-* Layered Architecture
-* SOLID Principles
-* Design Patterns
-* RESTful API Design
-* Authentication & Authorization
-* Database Design
-* Data Structures & Algorithms
+```text
+Clean Code
+   ↓
+SOLID Principles
+   ↓
+Separation of Concerns
+   ↓
+Clean Architecture
+   ↓
+Maintainable & Scalable Systems
+```
+
+### Areas of Interest
+
 * Software Architecture
+* API Design
+* Database Design
+* Authentication & Authorization
+* Design Patterns
+* Data Structures & Algorithms
+* System Design
 * Artificial Intelligence
 
 ---
 
-## Current Learning & Development
+# Current Focus
 
-Currently focusing on strengthening my expertise in:
+```text
+ASP.NET Core
+      │
+      ├── RESTful APIs
+      ├── Authentication & Authorization
+      ├── Entity Framework Core
+      └── Clean Architecture
 
-* Advanced ASP.NET Core
-* RESTful API Development
-* React.js
-* Clean Architecture
-* Authentication & Authorization
-* Entity Framework Core
-* SQL Server
-* Data Structures & Algorithms
-* Artificial Intelligence & Machine Learning
+React.js
+      │
+      ├── Component Architecture
+      ├── State Management
+      └── Modern UI Development
+
+Software Engineering
+      │
+      ├── SOLID
+      ├── Design Patterns
+      ├── Data Structures
+      └── System Design
+
+Artificial Intelligence
+      │
+      └── Machine Learning
+```
 
 ---
 
-## GitHub Activity
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nada-Alkomi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nada-Alkomi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Alkomi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Nada-Alkomi&theme=tokyonight&hide_border=true" />
 
@@ -198,9 +240,38 @@ Currently focusing on strengthening my expertise in:
 
 ---
 
-## Let's Connect
+# Contribution Activity
 
-I am open to opportunities, collaborations, internships, and projects related to **Software Engineering, Full-Stack Development, React.js, ASP.NET Core, and Artificial Intelligence**.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nada-Alkomi&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# Professional Development
+
+I believe strong software engineering comes from continuous learning, practical implementation, and consistently improving the quality of the systems I build.
+
+Currently strengthening my knowledge in:
+
+* Advanced ASP.NET Core
+* React.js
+* Clean Architecture
+* Software Design Patterns
+* System Design
+* Data Structures & Algorithms
+* Database Engineering
+* Artificial Intelligence & Machine Learning
+
+---
+
+# Let's Connect
+
+I am open to **software development opportunities, internships, collaborations, and technical projects** related to:
+
+`Full-Stack Development` · `ASP.NET Core` · `React.js` · `Software Engineering` · `Artificial Intelligence`
 
 <div align="center">
 
@@ -216,8 +287,8 @@ I am open to opportunities, collaborations, internships, and projects related to
 <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
-**Building with purpose. Learning continuously. Engineering better software.**
+### Building. Learning. Engineering.
 
 </div>
