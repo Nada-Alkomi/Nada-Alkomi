@@ -66,8 +66,11 @@ I am continuously expanding my expertise in **software engineering, system desig
 
 ### Database
 
+### Database & Data Access
+
 <p>
-<img src="https://skillicons.dev/icons?i=sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mssql" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### Development Tools
