@@ -1,157 +1,223 @@
-# Hi there 👋 I'm Nada Mostafa AlKomi
+# Nada Mostafa AlKomi
 
 <div align="center">
 
-### 💻 Full-Stack Developer | React & .NET
+### Full-Stack Software Developer | React.js & ASP.NET Core
 
-Building scalable, maintainable, and user-friendly web applications.
+**Building scalable, maintainable, and production-oriented web applications with modern software engineering practices.**
+
+<p>
+  <a href="https://github.com/Nada-Alkomi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nada-mostafa-al-komi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nadamostafa.lll54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm **Nada Mostafa AlKomi**, a passionate Software Developer with a strong interest in **Frontend and Backend Development**.
+I am a **Full-Stack Software Developer** with a strong focus on **React.js, ASP.NET Core, C#, and SQL Server**.
 
-I enjoy building modern web applications, designing RESTful APIs, and working with clean and maintainable architectures.
+I enjoy designing and developing web applications across both the frontend and backend, with particular interest in **RESTful API development, database design, authentication and authorization, and clean software architecture**.
 
-* 🎓 Computer Science Graduate
-* 💻 Full-Stack Developer
-* ⚛️ Frontend Development with React
-* 🔷 Backend Development with ASP.NET Core
-* 🗄️ Working with SQL Server and Entity Framework Core
-* 🏗️ Interested in Clean Architecture and Software Engineering
-* 🤖 Interested in Artificial Intelligence
-* 🚀 Always learning and improving my development skills
+My development approach focuses on writing **clean, maintainable, scalable, and well-structured code** while continuously improving my understanding of software engineering principles and modern development practices.
 
----
+### Professional Focus
 
-## 🔗 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nada-mostafa-al-komi)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Nada-Alkomi)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nadamostafa.lll54@gmail.com)
-
-</div>
+* Full-Stack Web Development
+* Frontend Development with React.js
+* Backend Development with ASP.NET Core
+* RESTful API Design & Development
+* Entity Framework Core & SQL Server
+* Clean Architecture & Layered Architecture
+* Authentication & Authorization
+* Object-Oriented Programming
+* Database Design & Management
+* Software Engineering Principles
+* Machine Learning & Artificial Intelligence
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## Technical Expertise
 
-### 🎨 Frontend Development
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-### ⚙️ Backend Development
+### Backend Development
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-### 🗄️ Database
+### Database & Data Access
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-### 🔧 Tools & Technologies
+### Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 ClinicCare Management System
+### ClinicCare — Clinic Management System
 
-A healthcare management backend system developed using **ASP.NET Core Web API** and **Clean Architecture**.
+A backend-focused healthcare management system designed using **ASP.NET Core Web API** and a structured architectural approach.
 
-**Key Features:**
+#### Core Features
 
-* JWT Authentication
+* JWT-based Authentication
 * Role-Based Authorization
 * Admin, Doctor, and Patient Roles
 * Appointment Management
-* Medical Records
-* Notifications
+* Medical Records Management
+* Notification System
+* Entity Framework Core
 * Repository Pattern
 * Unit of Work Pattern
-* Entity Framework Core
+* SQL Server
+
+**Tech Stack:**
+`C#` · `ASP.NET Core` · `EF Core` · `SQL Server` · `REST API`
 
 ---
 
-### 🛒 E-Commerce API
+### E-Commerce API
 
-A backend RESTful API developed using **ASP.NET Core Web API**.
+A RESTful backend API designed to support core e-commerce operations using **ASP.NET Core Web API**.
 
-**Technologies:**
+#### Technologies
 
 * C#
 * ASP.NET Core
 * Entity Framework Core
 * SQL Server
-* RESTful API
+* RESTful APIs
+* Repository Pattern
+* Authentication & Authorization
+
+**Tech Stack:**
+`C#` · `ASP.NET Core` · `EF Core` · `SQL Server`
 
 ---
 
-### 🧩 Autism Early Detection Project
+### Autism Early Detection — Machine Learning Project
 
-An AI-based graduation project focused on supporting the **early detection of Autism Spectrum Disorder** using Machine Learning techniques.
+An AI-based graduation project focused on supporting the **early detection of Autism Spectrum Disorder** through machine learning techniques.
 
-**Technologies & Concepts:**
+The project involved data preprocessing, feature preparation, model training, and evaluation of machine learning algorithms.
 
+#### Technologies & Concepts
+
+* Python
 * Machine Learning
 * Data Preprocessing
+* Feature Engineering
 * Random Forest
 * Gradient Boosting
 * Model Evaluation
 
+**Focus:**
+`Machine Learning` · `Data Analysis` · `Model Evaluation`
+
 ---
 
-## 📊 GitHub Stats
+## Software Engineering Interests
+
+I am particularly interested in developing reliable software systems and continuously expanding my knowledge in:
+
+* Clean Architecture
+* Layered Architecture
+* SOLID Principles
+* Design Patterns
+* RESTful API Design
+* Authentication & Authorization
+* Database Design
+* Data Structures & Algorithms
+* Software Architecture
+* Artificial Intelligence
+
+---
+
+## Current Learning & Development
+
+Currently focusing on strengthening my expertise in:
+
+* Advanced ASP.NET Core
+* RESTful API Development
+* React.js
+* Clean Architecture
+* Authentication & Authorization
+* Entity Framework Core
+* SQL Server
+* Data Structures & Algorithms
+* Artificial Intelligence & Machine Learning
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nada-Alkomi&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Nada-Alkomi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Alkomi&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Alkomi&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nada-Alkomi\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=Nada-Alkomi&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## Let's Connect
 
-* 🔷 Advanced ASP.NET Core Web API
-* 🏗️ Clean Architecture
-* 🔐 Authentication & Authorization
-* ⚛️ React Development
-* 🧠 Data Structures & Algorithms
-* 🤖 Artificial Intelligence
-
----
+I am open to opportunities, collaborations, internships, and projects related to **Software Engineering, Full-Stack Development, React.js, ASP.NET Core, and Artificial Intelligence**.
 
 <div align="center">
 
-### 💡 "Always learning, always building."
+<a href="https://www.linkedin.com/in/nada-mostafa-al-komi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-⭐ Feel free to explore my repositories and connect with me!
+<a href="https://github.com/Nada-Alkomi">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:nadamostafa.lll54@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+**Building with purpose. Learning continuously. Engineering better software.**
 
 </div>
-
