@@ -64,8 +64,6 @@ I am continuously expanding my expertise in **software engineering, system desig
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
 </p>
 
-### Database
-
 ### Database & Data Access
 
 <p>
